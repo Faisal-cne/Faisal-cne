@@ -17,7 +17,7 @@ I also have hands-on experience in server administration, network infrastructure
 
 | Game | Description | Players |
 |---|---|---|
-| [Guess Who?]([https://vrchat.com/home/world/wrld_3e25308f-0eed-4cde-816a-0bd0ab69ac73/info](https://github.com/Faisal-cne/guess-who-vrchat)) | 2-player image guessing game with 25+ categories | 115,206 |
+| [Guess Who?](https://github.com/Faisal-cne/guess-who-vrchat) | 2-player image guessing game with 25+ categories | 115,206 |
 | [حروف مع عزيز](https://github.com/Faisal-cne/Harof-azize) | Arabic quiz game inspired by the YouTube show | 15,393 |
 | [BOMB TAG](https://github.com/Faisal-cne/bomb-tag-vrchat) | 4–32 player bomb passing game with power-ups | 11,651 |
 | [جمعتنا](https://github.com/Faisal-cne/-Our-Hangout-VRChat-World) | Social VR world with mini-games (Truth or Dare, Chess, Logo Quiz & more) | 18,302

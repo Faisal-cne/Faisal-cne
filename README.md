@@ -21,7 +21,6 @@ I also have hands-on experience in server administration, network infrastructure
 | [حروف مع عزيز](https://vrchat.com/home/world/wrld_ca213e03-1889-4c86-893b-331a5f45f8f5/info) | Arabic quiz game inspired by the YouTube show | 15,393 |
 | [BOMB TAG](https://vrchat.com/home/world/wrld_58ab40e7-82a0-4c9c-8b11-77387f603db5/info) | 4–32 player bomb passing game with power-ups | 11,651 |
 | [جمعتنا](https://vrchat.com/home/world/wrld_69a5167f-5260-43ff-987a-bb1762c7ddaf/info) | Social VR world with mini-games (Truth or Dare, Chess, Logo Quiz & more) | 18,302
- |
 | [My Diary (مذكراتي)](https://vrchat.com/home/world/wrld_69a5167f-5260-43ff-987a-bb1762c7ddaf/info) | Arabic horror & puzzle game with interactive Arabic narrator | 2,466 |
 
 **Total players: 144,000+**

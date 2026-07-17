@@ -13,6 +13,19 @@ I also have hands-on experience in server administration, network infrastructure
 
 ---
 
+## 🎓 Graduation Project — Follow Me Robot
+
+**Follow Me Robot** is my Bachelor's thesis project (Computer and Network Engineering, Jouf University) — an autonomous robot that uses **RFID technology** to identify and follow a specific human operator, while using an ultrasonic sensor to detect and avoid obstacles in real time.
+
+- 🔑 Detects and verifies a human operator via a unique RFID tag UID (not just any person)
+- 🚶 Follows the verified operator at a safe distance
+- 🧱 Detects obstacles with an HC-SR04 ultrasonic sensor and stops/reroutes safely
+- ⚙️ Built with Arduino Uno, RFID RC522 reader, L298N motor driver, and a 2WD chassis
+
+🔗 [Follow Me Robot Repository](https://github.com/Faisal-cne/follow-me-robot)
+
+---
+
 ## 🎮 Published Games (VRChat)
 
 | Game | Description | Players |
